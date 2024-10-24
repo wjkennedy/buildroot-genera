@@ -1,0 +1,11 @@
+menu "OpenGenera"
+
+config BR2_PACKAGE_OPENGENERA
+    bool "OpenGenera"
+    help
+      OpenGenera is a virtual machine/emulator for the Genera operating system.
+
+      It can be used to run the Genera environment on modern hardware.
+
+endmenu
+
